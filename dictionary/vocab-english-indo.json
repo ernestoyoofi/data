@@ -1,0 +1,224 @@
+[
+  {
+    "verb_present": "abide",
+    "verb_past": "abode",
+    "verb_perfect": "abided",
+    "mean_indonesia": "tinggal, mematuhi"
+  },
+  {
+    "verb_present": "acknowledge",
+    "verb_past": "acknowledged",
+    "verb_perfect": "acknowledged",
+    "mean_indonesia": "mengakui, mengkonfirmasi"
+  },
+  {
+    "verb_present": "arise",
+    "verb_past": "arose",
+    "verb_perfect": "arisen",
+    "mean_indonesia": "bangkit, muncul"
+  },
+  {
+    "verb_present": "awake",
+    "verb_past": "awoke",
+    "verb_perfect": "awoken",
+    "mean_indonesia": "bangun"
+  },
+  {
+    "verb_present": "arrive",
+    "verb_past": "arrived",
+    "verb_perfect": "arrived",
+    "mean_indonesia": "tiba"
+  },
+  {
+    "verb_present": "ask",
+    "verb_past": "asked",
+    "verb_perfect": "asked",
+    "mean_indonesia": "bertanya"
+  },
+  {
+    "verb_present": "answer",
+    "verb_past": "answered",
+    "verb_perfect": "answered",
+    "mean_indonesia": "menjawab"
+  },
+  {
+    "verb_present": "act",
+    "verb_past": "acted",
+    "verb_perfect": "acted",
+    "mean_indonesia": "bertindak, berakting"
+  },
+  {
+    "verb_present": "achieve",
+    "verb_past": "achieved",
+    "verb_perfect": "achieved",
+    "mean_indonesia": "mencapai"
+  },
+  {
+    "verb_present": "admire",
+    "verb_past": "admired",
+    "verb_perfect": "admired",
+    "mean_indonesia": "mengagumi"
+  },
+  {
+    "verb_present": "admit",
+    "verb_past": "admitted",
+    "verb_perfect": "admitted",
+    "mean_indonesia": "mengaku, menerima"
+  },
+  {
+    "verb_present": "adopt",
+    "verb_past": "adopted",
+    "verb_perfect": "adopted",
+    "mean_indonesia": "mengadopsi"
+  },
+  {
+    "verb_present": "adore",
+    "verb_past": "adored",
+    "verb_perfect": "adored",
+    "mean_indonesia": "mencintai, memuja"
+  },
+  {
+    "verb_present": "afford",
+    "verb_past": "afforded",
+    "verb_perfect": "afforded",
+    "mean_indonesia": "mampu"
+  },
+  {
+    "verb_present": "agree",
+    "verb_past": "agreed",
+    "verb_perfect": "agreed",
+    "mean_indonesia": "setuju"
+  },
+  {
+    "verb_present": "aim",
+    "verb_past": "aimed",
+    "verb_perfect": "aimed",
+    "mean_indonesia": "membidik, bertujuan"
+  },
+  {
+    "verb_present": "allow",
+    "verb_past": "allowed",
+    "verb_perfect": "allowed",
+    "mean_indonesia": "mengizinkan"
+  },
+  {
+    "verb_present": "announce",
+    "verb_past": "announced",
+    "verb_perfect": "announced",
+    "mean_indonesia": "mengumumkan"
+  },
+  {
+    "verb_present": "apologize",
+    "verb_past": "apologized",
+    "verb_perfect": "apologized",
+    "mean_indonesia": "meminta maaf"
+  },
+  {
+    "verb_present": "appear",
+    "verb_past": "appeared",
+    "verb_perfect": "appeared",
+    "mean_indonesia": "muncul, tampak"
+  },
+  {
+    "verb_present": "applaud",
+    "verb_past": "applauded",
+    "verb_perfect": "applauded",
+    "mean_indonesia": "bertepuk tangan"
+  },
+  {
+    "verb_present": "apply",
+    "verb_past": "applied",
+    "verb_perfect": "applied",
+    "mean_indonesia": "melamar, mendaftar"
+  },
+  {
+    "verb_present": "appoint",
+    "verb_past": "appointed",
+    "verb_perfect": "appointed",
+    "mean_indonesia": "menunjuk, mengangkat"
+  },
+  {
+    "verb_present": "appreciate",
+    "verb_past": "appreciated",
+    "verb_perfect": "appreciated",
+    "mean_indonesia": "menghargai"
+  },
+  {
+    "verb_present": "approach",
+    "verb_past": "approached",
+    "verb_perfect": "approached",
+    "mean_indonesia": "mendekati"
+  },
+  {
+    "verb_present": "approve",
+    "verb_past": "approved",
+    "verb_perfect": "approved",
+    "mean_indonesia": "menyetujui"
+  },
+  {
+    "verb_present": "argue",
+    "verb_past": "argued",
+    "verb_perfect": "argued",
+    "mean_indonesia": "berdebat"
+  },
+  {
+    "verb_present": "arrange",
+    "verb_past": "arranged",
+    "verb_perfect": "arranged",
+    "mean_indonesia": "mengatur"
+  },
+  {
+    "verb_present": "arrest",
+    "verb_past": "arrested",
+    "verb_perfect": "arrested",
+    "mean_indonesia": "menangkap"
+  },
+  {
+    "verb_present": "arrive",
+    "verb_past": "arrived",
+    "verb_perfect": "arrived",
+    "mean_indonesia": "tiba"
+  },
+  {
+    "verb_present": "ask",
+    "verb_past": "asked",
+    "verb_perfect": "asked",
+    "mean_indonesia": "bertanya"
+  },
+  {
+    "verb_present": "attack",
+    "verb_past": "attacked",
+    "verb_perfect": "attacked",
+    "mean_indonesia": "menyerang"
+  },
+  {
+    "verb_present": "attempt",
+    "verb_past": "attempted",
+    "verb_perfect": "attempted",
+    "mean_indonesia": "mencoba"
+  },
+  {
+    "verb_present": "attend",
+    "verb_past": "attended",
+    "verb_perfect": "attended",
+    "mean_indonesia": "menghadiri"
+  },
+  {
+    "verb_present": "attract",
+    "verb_past": "attracted",
+    "verb_perfect": "attracted",
+    "mean_indonesia": "menarik"
+  },
+  {
+    "verb_present": "avoid",
+    "verb_past": "avoided",
+    "verb_perfect": "avoided",
+    "mean_indonesia": "menghindari"
+  },
+  {
+    "verb_present": "awake",
+    "verb_past": "awoke",
+    "verb_perfect": "awoken",
+    "mean_indonesia": "bangun"
+  }
+]
