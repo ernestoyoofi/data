@@ -220,5 +220,575 @@
     "verb_past": "awoke",
     "verb_perfect": "awoken",
     "mean_indonesia": "bangun"
+  },
+  {
+    "verb_present": "back",
+    "verb_past": "backed",
+    "verb_perfect": "backed",
+    "mean_indonesia": "mundur"
+  },
+  {
+    "verb_present": "bake",
+    "verb_past": "baked",
+    "verb_perfect": "baked",
+    "mean_indonesia": "memanggang"
+  },
+  {
+    "verb_present": "balance",
+    "verb_past": "balanced",
+    "verb_perfect": "balanced",
+    "mean_indonesia": "menyeimbangkan"
+  },
+  {
+    "verb_present": "ban",
+    "verb_past": "banned",
+    "verb_perfect": "banned",
+    "mean_indonesia": "melarang"
+  },
+  {
+    "verb_present": "bang",
+    "verb_past": "banged",
+    "verb_perfect": "banged",
+    "mean_indonesia": "menyambar"
+  },
+  {
+    "verb_present": "bar",
+    "verb_past": "barred",
+    "verb_perfect": "barred",
+    "mean_indonesia": "melarang"
+  },
+  {
+    "verb_present": "bargain",
+    "verb_past": "bargained",
+    "verb_perfect": "bargained",
+    "mean_indonesia": "membargain"
+  },
+  {
+    "verb_present": "bark",
+    "verb_past": "barked",
+    "verb_perfect": "barked",
+    "mean_indonesia": "menyalak"
+  },
+  {
+    "verb_present": "bat",
+    "verb_past": "batted",
+    "verb_perfect": "batted",
+    "mean_indonesia": "memukul"
+  },
+  {
+    "verb_present": "bathe",
+    "verb_past": "bathed",
+    "verb_perfect": "bathed",
+    "mean_indonesia": "mandi"
+  },
+  {
+    "verb_present": "battle",
+    "verb_past": "battled",
+    "verb_perfect": "battled",
+    "mean_indonesia": "bertempur"
+  },
+  {
+    "verb_present": "beam",
+    "verb_past": "beamed",
+    "verb_perfect": "beamed",
+    "mean_indonesia": "mengarahkan"
+  },
+  {
+    "verb_present": "bear",
+    "verb_past": "bore",
+    "verb_perfect": "born",
+    "mean_indonesia": "menanggung"
+  },
+  {
+    "verb_present": "beat",
+    "verb_past": "beat",
+    "verb_perfect": "beaten",
+    "mean_indonesia": "mengalahkan"
+  },
+  {
+    "verb_present": "become",
+    "verb_past": "became",
+    "verb_perfect": "become",
+    "mean_indonesia": "menjadi"
+  },
+  {
+    "verb_present": "beg",
+    "verb_past": "begged",
+    "verb_perfect": "begged",
+    "mean_indonesia": "mohon"
+  },
+  {
+    "verb_present": "begin",
+    "verb_past": "began",
+    "verb_perfect": "begun",
+    "mean_indonesia": "mulai"
+  },
+  {
+    "verb_present": "behave",
+    "verb_past": "behaved",
+    "verb_perfect": "behaved",
+    "mean_indonesia": "berperilaku"
+  },
+  {
+    "verb_present": "believe",
+    "verb_past": "believed",
+    "verb_perfect": "believed",
+    "mean_indonesia": "percaya"
+  },
+  {
+    "verb_present": "belong",
+    "verb_past": "belonged",
+    "verb_perfect": "belonged",
+    "mean_indonesia": "milik"
+  },
+  {
+    "verb_present": "bend",
+    "verb_past": "bent",
+    "verb_perfect": "bent",
+    "mean_indonesia": "melengkung"
+  },
+  {
+    "verb_present": "besiege",
+    "verb_past": "besieged",
+    "verb_perfect": "besieged",
+    "mean_indonesia": "mengepung"
+  },
+  {
+    "verb_present": "bet",
+    "verb_past": "bet",
+    "verb_perfect": "bet",
+    "mean_indonesia": "bertaruh"
+  },
+  {
+    "verb_present": "bid",
+    "verb_past": "bade",
+    "verb_perfect": "bidden",
+    "mean_indonesia": "menawar"
+  },
+  {
+    "verb_present": "bind",
+    "verb_past": "bound",
+    "verb_perfect": "bound",
+    "mean_indonesia": "mengikat"
+  },
+  {
+    "verb_present": "bite",
+    "verb_past": "bit",
+    "verb_perfect": "bitten",
+    "mean_indonesia": "menggigit"
+  },
+  {
+    "verb_present": "bleed",
+    "verb_past": "bled",
+    "verb_perfect": "bled",
+    "mean_indonesia": "berdarah"
+  },
+  {
+    "verb_present": "bless",
+    "verb_past": "blessed",
+    "verb_perfect": "blessed",
+    "mean_indonesia": "memberkati"
+  },
+  {
+    "verb_present": "blink",
+    "verb_past": "blinked",
+    "verb_perfect": "blinked",
+    "mean_indonesia": "mengedipkan"
+  },
+  {
+    "verb_present": "blot",
+    "verb_past": "blotted",
+    "verb_perfect": "blotted",
+    "mean_indonesia": "mencoret"
+  },
+  {
+    "verb_present": "blow",
+    "verb_past": "blew",
+    "verb_perfect": "blown",
+    "mean_indonesia": "menghembus"
+  },
+  {
+    "verb_present": "blurt",
+    "verb_past": "blurted",
+    "verb_perfect": "blurted",
+    "mean_indonesia": "tertahan"
+  },
+  {
+    "verb_present": "blush",
+    "verb_past": "blushed",
+    "verb_perfect": "blushed",
+    "mean_indonesia": "memerah"
+  },
+  {
+    "verb_present": "boast",
+    "verb_past": "boasted",
+    "verb_perfect": "boasted",
+    "mean_indonesia": "membual"
+  },
+  {
+    "verb_present": "boil",
+    "verb_past": "boiled",
+    "verb_perfect": "boiled",
+    "mean_indonesia": "direbus"
+  },
+  {
+    "verb_present": "calculate",
+    "verb_past": "calculated",
+    "verb_perfect": "calculated",
+    "mean_indonesia": "menghitung"
+  },
+  {
+    "verb_present": "call",
+    "verb_past": "called",
+    "verb_perfect": "called",
+    "mean_indonesia": "memanggil"
+  },
+  {
+    "verb_present": "calm",
+    "verb_past": "calmed",
+    "verb_perfect": "calmed",
+    "mean_indonesia": "menenangkan"
+  },
+  {
+    "verb_present": "campaign",
+    "verb_past": "campaigned",
+    "verb_perfect": "campaigned",
+    "mean_indonesia": "mencapai"
+  },
+  {
+    "verb_present": "cancel",
+    "verb_past": "cancelled",
+    "verb_perfect": "cancelled",
+    "mean_indonesia": "membatalkan"
+  },
+  {
+    "verb_present": "capture",
+    "verb_past": "captured",
+    "verb_perfect": "captured",
+    "mean_indonesia": "menangkap"
+  },
+  {
+    "verb_present": "care",
+    "verb_past": "cared",
+    "verb_perfect": "cared",
+    "mean_indonesia": "peduli"
+  },
+  {
+    "verb_present": "carry",
+    "verb_past": "carried",
+    "verb_perfect": "carried",
+    "mean_indonesia": "membawa"
+  },
+  {
+    "verb_present": "carve",
+    "verb_past": "carved",
+    "verb_perfect": "carved",
+    "mean_indonesia": "mengukir"
+  },
+  {
+    "verb_present": "cast",
+    "verb_past": "cast",
+    "verb_perfect": "cast",
+    "mean_indonesia": "melemparkan"
+  },
+  {
+    "verb_present": "cause",
+    "verb_past": "caused",
+    "verb_perfect": "caused",
+    "mean_indonesia": "menyebabkan"
+  },
+  {
+    "verb_present": "celebrate",
+    "verb_past": "celebrated",
+    "verb_perfect": "celebrated",
+    "mean_indonesia": "merayakan"
+  },
+  {
+    "verb_present": "challenge",
+    "verb_past": "challenged",
+    "verb_perfect": "challenged",
+    "mean_indonesia": "mencabar"
+  },
+  {
+    "verb_present": "change",
+    "verb_past": "changed",
+    "verb_perfect": "changed",
+    "mean_indonesia": "mengubah"
+  },
+  {
+    "verb_present": "charge",
+    "verb_past": "charged",
+    "verb_perfect": "charged",
+    "mean_indonesia": "mengecas"
+  },
+  {
+    "verb_present": "chat",
+    "verb_past": "chatted",
+    "verb_perfect": "chatted",
+    "mean_indonesia": "berbual"
+  },
+  {
+    "verb_present": "check",
+    "verb_past": "checked",
+    "verb_perfect": "checked",
+    "mean_indonesia": "memeriksa"
+  },
+  {
+    "verb_present": "cheer",
+    "verb_past": "cheered",
+    "verb_perfect": "cheered",
+    "mean_indonesia": "bersorak"
+  },
+  {
+    "verb_present": "chew",
+    "verb_past": "chewed",
+    "verb_perfect": "chewed",
+    "mean_indonesia": "mengunyah"
+  },
+  {
+    "verb_present": "choose",
+    "verb_past": "chose",
+    "verb_perfect": "chosen",
+    "mean_indonesia": "memilih"
+  },
+  {
+    "verb_present": "damage",
+    "verb_past": "damaged",
+    "verb_perfect": "damaged",
+    "mean_indonesia": "merusak"
+  },
+  {
+    "verb_present": "dance",
+    "verb_past": "danced",
+    "verb_perfect": "danced",
+    "mean_indonesia": "menari"
+  },
+  {
+    "verb_present": "dare",
+    "verb_past": "dared",
+    "verb_perfect": "dared",
+    "mean_indonesia": "berani"
+  },
+  {
+    "verb_present": "deal",
+    "verb_past": "dealt",
+    "verb_perfect": "dealt",
+    "mean_indonesia": "berurusan"
+  },
+  {
+    "verb_present": "debate",
+    "verb_past": "debated",
+    "verb_perfect": "debated",
+    "mean_indonesia": "berdebat"
+  },
+  {
+    "verb_present": "decay",
+    "verb_past": "decayed",
+    "verb_perfect": "decayed",
+    "mean_indonesia": "membusuk"
+  },
+  {
+    "verb_present": "deceive",
+    "verb_past": "deceived",
+    "verb_perfect": "deceived",
+    "mean_indonesia": "mengelabui"
+  },
+  {
+    "verb_present": "decide",
+    "verb_past": "decided",
+    "verb_perfect": "decided",
+    "mean_indonesia": "memutuskan"
+  },
+  {
+    "verb_present": "declare",
+    "verb_past": "declared",
+    "verb_perfect": "declared",
+    "mean_indonesia": "mengisytiharkan"
+  },
+  {
+    "verb_present": "decorate",
+    "verb_past": "decorated",
+    "verb_perfect": "decorated",
+    "mean_indonesia": "menghias"
+  },
+  {
+    "verb_present": "decrease",
+    "verb_past": "decreased",
+    "verb_perfect": "decreased",
+    "mean_indonesia": "mengurangkan"
+  },
+  {
+    "verb_present": "dedicate",
+    "verb_past": "dedicated",
+    "verb_perfect": "dedicated",
+    "mean_indonesia": "mengabdikan"
+  },
+  {
+    "verb_present": "defeat",
+    "verb_past": "defeated",
+    "verb_perfect": "defeated",
+    "mean_indonesia": "mengalahkan"
+  },
+  {
+    "verb_present": "defend",
+    "verb_past": "defended",
+    "verb_perfect": "defended",
+    "mean_indonesia": "mempertahankan"
+  },
+  {
+    "verb_present": "delay",
+    "verb_past": "delayed",
+    "verb_perfect": "delayed",
+    "mean_indonesia": "menangguhkan"
+  },
+  {
+    "verb_present": "delete",
+    "verb_past": "deleted",
+    "verb_perfect": "deleted",
+    "mean_indonesia": "memadam"
+  },
+  {
+    "verb_present": "deliver",
+    "verb_past": "delivered",
+    "verb_perfect": "delivered",
+    "mean_indonesia": "menghantar"
+  },
+  {
+    "verb_present": "demand",
+    "verb_past": "demanded",
+    "verb_perfect": "demanded",
+    "mean_indonesia": "menuntut"
+  },
+  {
+    "verb_present": "demonstrate",
+    "verb_past": "demonstrated",
+    "verb_perfect": "demonstrated",
+    "mean_indonesia": "mendemonstrasikan"
+  },
+  {
+    "verb_present": "deny",
+    "verb_past": "denied",
+    "verb_perfect": "denied",
+    "mean_indonesia": "menafikan"
+  },
+  {
+    "verb_present": "earn",
+    "verb_past": "earned",
+    "verb_perfect": "earned",
+    "mean_indonesia": "mendapatkan"
+  },
+  {
+    "verb_present": "eat",
+    "verb_past": "ate",
+    "verb_perfect": "eaten",
+    "mean_indonesia": "makan"
+  },
+  {
+    "verb_present": "educate",
+    "verb_past": "educated",
+    "verb_perfect": "educated",
+    "mean_indonesia": "mendidik"
+  },
+  {
+    "verb_present": "effect",
+    "verb_past": "effected",
+    "verb_perfect": "effected",
+    "mean_indonesia": "memberi kesan"
+  },
+  {
+    "verb_present": "elect",
+    "verb_past": "elected",
+    "verb_perfect": "elected",
+    "mean_indonesia": "memilih"
+  },
+  {
+    "verb_present": "eliminate",
+    "verb_past": "eliminated",
+    "verb_perfect": "eliminated",
+    "mean_indonesia": "menghapuskan"
+  },
+  {
+    "verb_present": "embarrass",
+    "verb_past": "embarrassed",
+    "verb_perfect": "embarrassed",
+    "mean_indonesia": "memalukan"
+  },
+  {
+    "verb_present": "emphasize",
+    "verb_past": "emphasized",
+    "verb_perfect": "emphasized",
+    "mean_indonesia": "menekankan"
+  },
+  {
+    "verb_present": "employ",
+    "verb_past": "employed",
+    "verb_perfect": "employed",
+    "mean_indonesia": "menggaji"
+  },
+  {
+    "verb_present": "empower",
+    "verb_past": "empowered",
+    "verb_perfect": "empowered",
+    "mean_indonesia": "memberdayakan"
+  },
+  {
+    "verb_present": "empty",
+    "verb_past": "emptied",
+    "verb_perfect": "emptied",
+    "mean_indonesia": "mengosongkan"
+  },
+  {
+    "verb_present": "encourage",
+    "verb_past": "encouraged",
+    "verb_perfect": "encouraged",
+    "mean_indonesia": "mendorong"
+  },
+  {
+    "verb_present": "end",
+    "verb_past": "ended",
+    "verb_perfect": "ended",
+    "mean_indonesia": "mengakhiri"
+  },
+  {
+    "verb_present": "endanger",
+    "verb_past": "endangered",
+    "verb_perfect": "endangered",
+    "mean_indonesia": "membahayakan"
+  },
+  {
+    "verb_present": "endorse",
+    "verb_past": "endorsed",
+    "verb_perfect": "endorsed",
+    "mean_indonesia": "menyokong"
+  },
+  {
+    "verb_present": "enforce",
+    "verb_past": "enforced",
+    "verb_perfect": "enforced",
+    "mean_indonesia": "menegakkan"
+  },
+  {
+    "verb_present": "engage",
+    "verb_past": "engaged",
+    "verb_perfect": "engaged",
+    "mean_indonesia": "terlibat"
+  },
+  {
+    "verb_present": "enhance",
+    "verb_past": "enhanced",
+    "verb_perfect": "enhanced",
+    "mean_indonesia": "meningkatkan"
+  },
+  {
+    "verb_present": "enjoy",
+    "verb_past": "enjoyed",
+    "verb_perfect": "enjoyed",
+    "mean_indonesia": "menikmati"
+  },
+  {
+    "verb_present": "enlarge",
+    "verb_past": "enlarged",
+    "verb_perfect": "enlarged",
+    "mean_indonesia": "memperbesar"
   }
 ]
