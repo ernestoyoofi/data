@@ -4,7 +4,7 @@
     "icon": "/reactnativeicon.png",
     "discontinue": {
       "label": "Aplikasi telah pindah ke versi terbaru, silahkan cek distore",
-      "redirect": "/appstore/id.nocturnalcat.bacakomikid"
+      "redirect": "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/icon.png"
     },
     "banner": {
       "type": "image",
@@ -12,42 +12,34 @@
     },
     "description": "Aplikasi untuk membaca komik dari situs komiku.id",
     "screenshot": [
-      "imagedev-1.jpg",
-      "imagedev-2.jpg",
-      "imagedev-3.jpg",
-      "imagedev-4.jpg"
+      "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/ss-img-light-home.jpg",
+      "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/ss-img-light-search.jpg",
+      "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/ss-img-light-info.jpg",
+      "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/ss-img-light-read.jpg"
     ],
     "package": [
       {
         "label": "Android App 1.7.0",
-        "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.7.0&model=googleandroid"
+        "download": "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/app-1.0.0-beta.apk"
       },
       {
         "label": "Android App 1.0.0",
-        "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.0.0-1&model=googleandroid"
+        "download": "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/app-1.0.0-updated.apk"
       },
       {
         "label": "Android App 1.0.0",
-        "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.0.0&model=googleandroid"
+        "download": "https://github.com/ernestoyoofi/appstore/releases/download/com.nakikocode.bacakomikid/app-1.7.0-beta.apk"
       }
     ],
-    "expand_metadata": {
-      "permission": [
-        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRE",
-        "android.permission.WRITE_EXTERNAL_STORAGE",
-        "android.permission.VIBRATE",
-        "android.permission.SYSTEM_ALERT_WINDOW",
-        "android.permission.READ_EXTERNAL_STORAGE",
-        "android.permission.INTERNET",
-        "android.permission.ACCESS_NETWORK_STATE"
-      ],
-      "libmain": [
-        "libhermes.so",
-        "libreactnativejni.so",
-        "libfb.so"
-      ],
-      "services": []
-    },
+    "permission": [
+      "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.VIBRATE",
+      "android.permission.SYSTEM_ALERT_WINDOW",
+      "android.permission.READ_EXTERNAL_STORAGE",
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE"
+    ],
     "signature": {
       "version": "v3",
       "serial_number": "736050756(0x2bdf1734)",
