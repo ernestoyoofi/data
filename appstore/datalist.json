@@ -24,6 +24,10 @@
       },
       {
         "label": "Android App 1.0.0",
+        "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.0.0-1&model=googleandroid"
+      },
+      {
+        "label": "Android App 1.0.0",
         "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.0.0&model=googleandroid"
       }
     ],
