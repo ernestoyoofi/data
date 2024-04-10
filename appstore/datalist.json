@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Baca Komiku.id",
+    "icon": "/reactnativeicon.png",
+    "discontinue": {
+      "label": "Aplikasi telah pindah ke versi terbaru, silahkan cek distore",
+      "redirect": "/appstore/id.nocturnalcat.bacakomikid"
+    },
+    "banner": {
+      "type": "image",
+      "url": "/e3gd/com.nakikocode.bacakomikid/releasepackage.png"
+    },
+    "description": "Aplikasi untuk membaca komik dari situs komiku.id",
+    "screenshot": [
+      "imagedev-1.jpg",
+      "imagedev-2.jpg",
+      "imagedev-3.jpg",
+      "imagedev-4.jpg"
+    ],
+    "package": [
+      {
+        "label": "Android App 1.7.0",
+        "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.7.0&model=googleandroid"
+      },
+      {
+        "label": "Android App 1.0.0",
+        "download": "/appstore/api?package=com.nakikocode.bacakomikid&version=1.0.0&model=googleandroid"
+      }
+    ],
+    "expand_metadata": {
+      "permission": [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.VIBRATE",
+        "android.permission.SYSTEM_ALERT_WINDOW",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "libmain": [
+        "libhermes.so",
+        "libreactnativejni.so",
+        "libfb.so"
+      ],
+      "services": [],
+    },
+    "signature": {
+      "version": "v3",
+      "serial_number": "736050756(0x2bdf1734)",
+      "publisher": "CN=, OU=, O=, L=, ST=, C=",
+      "subject": "CN=, OU=, O=, L=, ST=, C=",
+      "algoritma": "RSA",
+      "signin": {
+        "MD5": "MD5:76:65:2f:94:8a:a9:80:60:ec:3e:ed:9d:b7:f9:21:10",
+        "SHA-1": "SHA-1:45:e6:b9:91:b9:ad:1f:a6:69:9f:2c:e9:3c:b8:4e:34:fb:6e:da:6e",
+        "SHA-256": "SHA-256:d6:fb:88:17:9a:0d:73:12:30:95:19:94:e9:87:12:e4:5a:ba:15:af:70:41:13:cf:e9:1b:ea:0a:4a:c1:fb:8f"
+      }
+    }
+  }
+]
