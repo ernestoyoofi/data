@@ -42,7 +42,7 @@
         "libreactnativejni.so",
         "libfb.so"
       ],
-      "services": [],
+      "services": []
     },
     "signature": {
       "version": "v3",
