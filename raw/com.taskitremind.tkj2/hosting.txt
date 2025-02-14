@@ -1,2 +1,2 @@
 mainhost | unittarget | noteissues
-https://api-taskitremind-tkj2.vercel.app/ | routeapi | Catatan perbaikan
+https://taskit-remind-skanesga-tkj2.vercel.app/ | routeapi | Catatan perbaikan
