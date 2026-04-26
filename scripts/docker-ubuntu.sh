@@ -26,6 +26,8 @@ sudo DEBIAN_FRONTEND=noninteractive apt install -y docker-ce docker-ce-cli conta
 echo "Checking..."
 sudo systemctl enable --now docker
 sudo docker run --rm hello-world
+sudo usermod -G docker $USER
+exec su - $USER
 
 echo "---"
 echo "Finish!"
