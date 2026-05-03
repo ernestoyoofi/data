@@ -1,1 +1,2 @@
 skanesga-instance-template|https://ernestoyoofi.notion.site/Instance-LXC-Server-34fec5b3ebe0804eb8f0d6d8b8f90f11
+lr-mod|https://drive.google.com/file/d/1dSxC9LvddL4JD-pFpBiL8NMQZB5wumH6/view?usp=drive_link
